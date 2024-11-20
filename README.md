@@ -1,2 +1,2 @@
-# Classificador-de-Imagens
-Classificação de Imagens no Conjunto de Dados MPEG7 Modificado da disciplina Visão Computacional
+# Dependencias:
+Projeto desenvolvido no Google Colab, a pasta com o dataset deve estar disponível no Google Drive com o nome “mpeg7_mod”.
